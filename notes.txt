@@ -1,0 +1,10 @@
+
+Current goal: given an input sound, use genetic algorithms and add+sub "building block" synthesizer sounds to approximate the sound.
+
+initalize: sine wave
+
+*****************************************************
+
+(1) given two audio files both at X seconds, change one until it's some %p close to the other
+
+(2) combine two audio files both at X seconds in a crossover / genetics type of way
